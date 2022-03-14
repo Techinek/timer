@@ -12,4 +12,5 @@ https://github.com/Techinek/book_store_pro.git
 ```
 2. Run docker (all the requirements will be install automatically):
 ```
-dock
+docker-compose up
+```
